@@ -177,13 +177,13 @@ String host = "http://0.0.0.0:8080/";
 ## 📸 Screenshots
 
 ### Service Running
-![Screenshot 2025-12-02 at 20.48.34.png](../../../../../var/folders/57/h7z_gbn13058hxx51k0_j8ym0000gn/T/TemporaryItems/NSIRD_screencaptureui_AkbkGf/Screenshot%202025-12-02%20at%2020.48.34.png)
+![Service Running](Image/Screenshot%202025-12-07%20at%2010.08.14.png)
 
 ### SoapUI Testing
-![SoapUI Testing](screenshots/soapui-testing.png)
+![SoapUI Testing](Image/Screenshot%202025-12-07%20at%2010.09.10.png)
 
 ### WSDL View
-![WSDL View](screenshots/wsdl-view.png)
+![WSDL View](Image/Screenshot%202025-12-07%20at%2010.09.50.png)
 
 ## ⚠️ Important Notes
 
